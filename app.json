@@ -13,30 +13,21 @@
   }],
   "repository": "https://github.com/BWFXMUSIC/V2CHATBOT",
   "env": {
-    "API_ID": {
-      "description": "Get this value from my.telegram.org/apps.",
-      "required": true,
-      "value": ""23392712
-    },
-    "API_HASH": {
-      "description": "Get this value from my.telegram.org/apps.",
-      "required": true,
-      "value": "7cb236b197b25c243fa83e7e0173d0e6"
-    },
     "BOT_TOKEN": {
-      "description": "A Bot token from @BotFather",
+      "description": "❤️A Bot token from @BotFather👀",
       "required": true,
       "value": ""
     },
     "MONGO_URL": {
-      "description": "Get a mongodb url from https://cloud.mongodb.com.",
+      "description": "🤭Get a mongodb url from https://cloud.mongodb.com💥",
       "required": true,
       "value": "mongodb+srv://BWFMUSIC:BWFMUSIC@cluster0.xwnup2l.mongodb.net/?retryWrites=true&w=majority"
     },
     "OWNER_ID": {
-      "description": "User id of the user who will known as owner of the bot.",
+      "description": "🙏User id of the user who will known as owner of the bot.💔",
       "required": true,
       "value": "6052880487"
+    
     }
   }
 }
