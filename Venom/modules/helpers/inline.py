@@ -6,12 +6,12 @@ from Venom import VenomX
 
 DEV_OP = [
     [
-        InlineKeyboardButton(text="🥀 ᴏᴡɴᴇʀ 🥀", user_id=OWNER),
-        InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_GRP}"),
+        InlineKeyboardButton(text="💌 ʙω͠ғꜱᴜᴘᴘᴏʀᴛ 💌", user_id=OWNER),
+        InlineKeyboardButton(text="👑 ʙωғ ᴏᴡɴᴇʀ 👑", url=f"https://t.me/{SUPPORT_GRP}"),
     ],
     [
         InlineKeyboardButton(
-            text="😍 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 😍",
+            text="⛩️ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ⛩️",
             url=f"https://t.me/{VenomX.username}?startgroup=true",
         ),
     ],
@@ -27,7 +27,7 @@ DEV_OP = [
 PNG_BTN = [
     [
         InlineKeyboardButton(
-            text="😍 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 😍",
+            text="⛩️ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ⛩️",
             url=f"https://t.me/{VenomX.username}?startgroup=true",
         ),
     ],
