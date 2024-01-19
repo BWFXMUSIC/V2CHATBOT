@@ -36,7 +36,7 @@ CHATBOT_READ = f"""
 <b>||©️ @{OWNER_USERNAME}||</b>
 """
 
-SOURCE_READ = f"**💌ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ💌 [{VenomX.name}](https://t.me/{VenomX.username})🥀 @L2R_KING0 ❤️.**\n**♦️ꭙʙω͠ғ ᴍᴀᴄʜɪɴᴇʙᴏᴛ ɪs ɴᴏᴛ ᴍɪɴᴇ⏎͟🫧**\n**────────────────────**\n**🔊ʜᴇʀᴇ ɪs ᴛʜᴇ💨 [ʙω͠ғ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/BWFXMUSIC/V2CHATBOT)**\n**────────────────────**\n**❣️ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ🦋 [ʙω͠ғ ꜱᴜᴘᴘᴏʀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
+SOURCE_READ = f"**💌ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ💌 [{VenomX.name}](https://t.me/{VenomX.username})🥀 @L2R_KING0 ❤️.**\n**♦️ꭙʙω͠ғ ᴍᴀᴄʜɪɴᴇʙᴏᴛ ɪs ɴᴏᴛ ᴍɪɴᴇ⏎͟🫧**\n**────────────────────**\n**🔊ʜᴇʀᴇ ɪs ᴛʜᴇ💨 [ʙω͠ғ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://t.me/SHAYRI_CHANNEL1)**\n**────────────────────**\n**❣️ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ🦋 [ʙω͠ғ ꜱᴜᴘᴘᴏʀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||©️ @{OWNER_USERNAME}||</b>"
 
 ADMIN_READ = f"sᴏᴏɴ"
 
